@@ -1,6 +1,6 @@
 # MySQL AI Data Analyst
 
-Ask plain-English questions about your MySQL database and get instant charts, tables, and CSV exports — powered by Claude.
+Ask plain-English questions about your MySQL database and get instant charts, tables, and CSV exports - powered by Claude.
 
 ---
 
@@ -67,11 +67,11 @@ npm run dev
 
 ## How It Works
 
-1. **Connect** — Enter your MySQL credentials; the backend fetches the full schema
-2. **Ask** — Type a plain-English question
-3. **Analyze** — Claude writes the SQL and picks the best chart type
-4. **Execute** — Backend runs the SQL against your real database
-5. **Visualize** — Results render as a chart and/or table with CSV export
+1. **Connect** - Enter your MySQL credentials; the backend fetches the full schema
+2. **Ask** - Type a plain-English question
+3. **Analyze** - Claude writes the SQL and picks the best chart type
+4. **Execute** - Backend runs the SQL against your real database
+5. **Visualize** - Results render as a chart and/or table with CSV export
 
 ---
 

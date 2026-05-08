@@ -6,13 +6,13 @@ Ask plain-English questions about your MySQL database and get instant charts, ta
 
 ## Features
 
-- 🔌 Real MySQL connection (live query execution)
-- 🤖 Claude generates SQL from natural language
-- 📊 5 chart types: bar, line, pie, area, scatter
-- 📋 Table view with raw row data
-- ⬇️ CSV export for every result
-- { } Expandable SQL query viewer
-- 🔍 Auto-detects schema on connect
+-  Real MySQL connection (live query execution)
+-  Claude generates SQL from natural language
+-  5 chart types: bar, line, pie, area, scatter
+-  Table view with raw row data
+-  CSV export for every result
+-  Expandable SQL query viewer
+-  Auto-detects schema on connect
 
 ---
 
